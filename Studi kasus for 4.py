@@ -2,7 +2,7 @@
 ## Program menghitung jumlah mahasiswa yang lulus.
 
 nilai_mahasiswa = []
-jumlah_mahasiswa_lulus = int()
+jumlah_mahasiswa_lulus = 0
 
 for mahasiswa in range(1,6):
     nilai_mahasiswa_individu = int(input(f"Masukkan nilai mahasiswa {mahasiswa}: "))
