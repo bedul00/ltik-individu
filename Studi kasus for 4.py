@@ -11,4 +11,4 @@ for mahasiswa in range(1,6):
     if nilai_mahasiswa_individu >= 65:
         jumlah_mahasiswa_lulus += 1
 
-print(f"Jumlah mahasiswa yang lulus: {jumlah_mahasiswa_lulus}")
+print(f"Jumlah mahasiswa lulus: {jumlah_mahasiswa_lulus}")
